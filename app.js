@@ -23,7 +23,7 @@ app.post('/post', (req, res) => {
 
 //Put Request
 app.put('/put', (req, res) => {
-    res.send('i am putting a request now');
+    res.send('i am putting a  now');
 })
 
 //Patch Request
